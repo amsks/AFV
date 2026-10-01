@@ -1,0 +1,19 @@
+__pycache__/
+dist/
+*.py[cod]
+*$py.class
+*.egg-info/
+.DS_Store
+.idea/
+.ruff_cache/
+
+# Runs, label masks, LaTeX build output.
+exp/
+masks/
+wandb/
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.pdf
